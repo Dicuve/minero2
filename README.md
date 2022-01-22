@@ -1,1 +1,2 @@
-# minero2
+# Geologist
+Geologist Project
